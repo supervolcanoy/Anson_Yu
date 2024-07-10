@@ -1,1 +1,1 @@
-# Anson_Yu
+# Anson_Yu This project is about the projects I make. I am learning Javascript, HTML, and CSS. But you can see other projects I make in other coding platforms down here ⬇️
